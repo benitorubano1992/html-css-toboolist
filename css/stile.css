@@ -112,9 +112,11 @@ h2 span {
 .etichetta {
     color: white;
     border-radius: 7px;
-    padding: 4px 8px;
-    font-size: 0.75em;
+    text-align: center;
+    font-size: 0.5rem;
     vertical-align: middle;
+    width:3rem;
+    display: inline-block;
 }
 
 .editoriale {
