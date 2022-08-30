@@ -30,6 +30,14 @@ h1 {
     display: inline-block;
 }
 
+
+
+#container-header{
+    width: 95%;
+    margin:0 auto;
+}
+
+
 #container {
     width: 80%;
     margin: 30px auto;  
